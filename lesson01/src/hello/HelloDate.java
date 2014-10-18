@@ -1,9 +1,9 @@
-package lesson01;
+package hello;
 
 public class HelloDate {
 
 	public static void main(String[] args) {
-		System.out.println("Hello from Java 8 Modified!");
+		System.out.println("Hello from Java 8!");
 
 	}
 
